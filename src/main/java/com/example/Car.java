@@ -8,6 +8,8 @@ package com.example;
  */
 public class Car {
 
+	// ごめんなさい
+	
 	private int speed;
 	private String name;
 	
